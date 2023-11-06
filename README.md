@@ -30,6 +30,7 @@ Update the following lines with your **RPA WebService** credentials:
    ```python
    email = 'your_email@example.com'
    password = 'your_password'
+   client_id = 'client_id'
    ```
 
 Inspect `category_code.txt` which contains all the necessary category codes for `case_type` and `partyExtendedConnectionTypes`.
