@@ -221,8 +221,8 @@ def get_Complainant_json_ele3(Complainant_json_ele2):
     return {}
 
 proxies = {
-    'http': 'http://rnvefjue:vltalliulpt3@104.232.209.54:6012',
-    'https': 'http://rnvefjue:vltalliulpt3@104.232.209.54:6012'
+    'http': 'http://xxxxxx:xxxxxxxxxx@104.232.209.54:6012',
+    'https': 'http://xxxxxx:xxxxxxxxx@104.232.209.54:6012'
 }
 
 email = ''
